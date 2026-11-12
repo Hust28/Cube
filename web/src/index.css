@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cyber-bg: #090D16;
+  --color-cyber-card: #111827;
+  --color-cyber-surface: #1A233A;
+  --color-cyber-border: #2A3655;
+  --color-cyber-cyan: #00F0FF;
+  --color-cyber-magenta: #FF007F;
+  --color-cyber-purple: #8B5CF6;
+  --color-cyber-yellow: #FFDD00;
+  --color-cyber-green: #00FF66;
+  --color-cyber-orange: #FF6600;
+  --color-cyber-blue: #0066FF;
+}
+
+body {
+  background-color: #090D16;
+  color: #F3F4F6;
+  overflow-x: hidden;
+}

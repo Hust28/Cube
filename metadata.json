@@ -1,0 +1,10 @@
+{
+  "name": "CubeRush 3D",
+  "description": "Twist. Learn. Solve. Dominate. Premium 3D Rubik's Cube with AI camera scanner, two-phase solver, learning academy, and speedcubing timer.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
